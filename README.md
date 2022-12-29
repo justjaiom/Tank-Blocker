@@ -18,4 +18,15 @@ to use ad blcoker on youtube open yt_addblocker.py
   b. pip install opencv-python
 2. run code and watch youtube
 
+
 ## pictures
+Extension:
+![image](https://user-images.githubusercontent.com/90425309/209993297-fbf04a2f-58ba-4b5b-a05e-d57c399670b0.png)
+
+Without Tank Blocker:
+![image](https://user-images.githubusercontent.com/90425309/209993198-b2870e00-8257-490e-85df-89d3c8e81d69.png)
+
+With Tank Blocker:
+![image](https://user-images.githubusercontent.com/90425309/209993269-4ab3e3b4-6f2b-40a6-b10a-616ae6c30151.png)
+
+
