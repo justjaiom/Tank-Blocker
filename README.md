@@ -12,7 +12,7 @@ Multi use AdBlocker
 4. turn on and enjoy no ads.
 **NOTE** not all ads will be blocked only ads comming form sources listed in backgorund.js.
 
-To use ad blcoker on youtube open yt_addblocker.py
+**To use ad blcoker on youtube** open yt_addblocker.py
 1. downlaod the following libraries fron terminal 
   ```
   pip install pyautogui
