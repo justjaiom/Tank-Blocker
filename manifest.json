@@ -1,7 +1,7 @@
 {
     "name": "Tank Blocker",
     "version": "1.0",
-    "description": "jaiom'ad blocker",
+    "description": "jaiom's ad blocker",
     "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
     "background": {
         "scripts": ["background.js"]
