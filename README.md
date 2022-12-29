@@ -14,8 +14,12 @@ Multi use AdBlocker
 
 To use ad blcoker on youtube open yt_addblocker.py
 1. downlaod the following libraries fron terminal 
-  a. pip install pyautogui
-  b. pip install opencv-python
+  ```
+  pip install pyautogui
+  ```
+  ```
+  pip install opencv-python
+  ```
 2. run code and watch youtube
 
 
