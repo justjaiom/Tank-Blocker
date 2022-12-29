@@ -8,6 +8,6 @@ Multi use AdBlocker
 ## usage
 1. clone this repo 
 2. open 
-[go](http://stackoverflow.com){:target="_blank"} and turn on developer settings
+[go](chrome://extensions/) and turn on developer settings
 
 ## My second title
