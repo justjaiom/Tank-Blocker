@@ -3,7 +3,7 @@ Multi use AdBlocker
 
 # Table of Contents
 
-1. [My first title](#usage)
+1. [usage](#usage)
 2. [My second title](#my-second-title)
 ## usage
 Some text.
