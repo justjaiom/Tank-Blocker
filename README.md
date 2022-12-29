@@ -7,7 +7,6 @@ Multi use AdBlocker
 2. [My second title](#my-second-title)
 ## usage
 1. clone this repo 
-2. open 
-[go](chrome://extensions/) and turn on developer settings
+2. open chrome://extensions/ 
 
 ## My second title
